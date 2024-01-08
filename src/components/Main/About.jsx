@@ -27,7 +27,7 @@ const About = () => (
                 <h4>
                     <FormattedMessage
                         id='description'
-                        defaultMessage='My name is Esteban Antonis Loannou and I am a full stack developer.'
+                        defaultMessage='My name is Antonis Loannou and I am a full stack developer.'
                     />
                 </h4>
                 <p>
@@ -45,7 +45,7 @@ const About = () => (
                                     defaultMessage='Age:'
                                 />
                             </span>
-                            23
+                            26
                         </p>
                     </li>
                     <li>
@@ -67,7 +67,7 @@ const About = () => (
                                     defaultMessage='From:'
                                 />
                             </span>
-                            Tucumán, Argentina
+                            Woodlands, Singapore
                         </p>
                     </li>
                 </ul>
