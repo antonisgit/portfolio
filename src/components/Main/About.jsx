@@ -42,7 +42,7 @@ const About = () => (
                             <span>
                                 <FormattedMessage
                                     id='years'
-                                    defaultMessage='Age:'
+                                    defaultMessage='Age: '
                                 />
                             </span>
                             26
@@ -64,10 +64,10 @@ const About = () => (
                             <span>
                                 <FormattedMessage
                                     id='from'
-                                    defaultMessage='From:'
+                                    defaultMessage='From: '
                                 />
                             </span>
-                            Woodlands, Singapore
+                            Nicosia, Cyprus
                         </p>
                     </li>
                 </ul>
