@@ -28,7 +28,7 @@ const Contact = () => (
                 steps={[
                     'Gmail', 1500,
                     'WhatsApp', 1500,
-                    'Instragram', 1500,
+                    'Twitter', 1500,
                     'Telegram', 1500,
                     'Linkedin', 1500,
                     'Github', 1500,
@@ -68,10 +68,10 @@ const Contact = () => (
                     <span></span>
                     <span></span>
                     <span></span>
-                    <span className="fab fa-instagram"></span>
+                    <span className="fab fa-skype"></span>
                 </div>
                 <div className="text">
-                    Instagram
+                    Skype
                 </div>
             </a>
             <a href="https://t.me/estebanU20" target="_blank" rel="noopener noreferrer" data-aos="zoom-in">
@@ -80,10 +80,10 @@ const Contact = () => (
                     <span></span>
                     <span></span>
                     <span></span>
-                    <span className="fab fa-telegram"></span>
+                    <span className="fab fa-twitter"></span>
                 </div>
                 <div className="text">
-                    telegram
+                    Twitter
                 </div>
             </a>
             <a href="https://www.linkedin.com/in/esteban-nahuel-carrizo-69715422b/" target="_blank" rel="noopener noreferrer" data-aos="zoom-in">
